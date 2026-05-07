@@ -1,3 +1,7 @@
+
+<img width="1723" height="1028" alt="image" src="https://github.com/user-attachments/assets/472be4a6-236c-446a-bc23-a2d914126367" />
+
+
 # RabbitMQ Dashboard
 
 Modern, single-container based, highly secure RabbitMQ Multi-Cluster Management and Monitoring Interface.
